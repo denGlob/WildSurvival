@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_menu_map"
+            android:title="Map" />
+        <item
+            android:id="@+id/nav_flashlight"
+            android:icon="@drawable/ic_menu_flashlight"
+            android:title="Flashlight" />
+        <item
+            android:id="@+id/nav_compass"
+            android:icon="@drawable/ic_menu_compass"
+            android:title="Compass" />
+    </group>
+
+    <item
+        android:checkableBehavior="single"
+        android:title="Guides">
+        <menu>
+            <item
+                android:id="@+id/nav_fire"
+                android:icon="@drawable/ic_menu_fire"
+                android:title="How to get fire?" />
+            <item
+                android:id="@+id/nav_meal"
+                android:icon="@drawable/ic_menu_meal"
+                android:title="What can I eat?" />
+
+            <item
+                android:id="@+id/nav_aid"
+                android:icon="@drawable/ic_menu_aid"
+                android:title="How do I treated?" />
+
+            <item
+                android:id="@+id/nav_about"
+                android:title="About" />
+        </menu>
+    </item>
+
+</menu>

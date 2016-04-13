@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Wild Survival</string>
+    <string name="title_activity_main">Wild Survival</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    
+    <string name="txtStackOverFlow">http://stackoverflow.com</string>
+    <string name="txtUdacity">https://www.udacity.com</string>
+    <string name="txtAndroidDev">http://developer.android.com</string>
+    <string name="thanks">Specials thank\u0027s</string>
+    <string name="copyright">Copyright \u00A9 Denys N. Smishny. All rights reserved!</string>
+
+    <string name="txtFire">
+        <font size="24"><b>The Hand Drill\n\n</b></font>
+        "The hand drill method is the most primitive, the most primal, and the most "
+        "difficult to do All you need is wood, tireless hands, and some gritty determination. "
+        "Therefore, it’ll put more hair on your chest than any other method. Here’s how it’s done:"\n\n
+
+        <b>Build a tinder nest\n</b>
+        "Your tinder nest will be used to create the flame you get from the spark you’re about to "
+        "create. Make a tinder nest out of anything that catches fire easily, like dry grass, leaves, and bark."\n\n
+
+        <b>Make your notch\n</b>
+        "Cut a v-shaped notch into your fire board and make a small depression adjacent to it."\n\n
+
+        <b>Place bark underneath the notch\n</b>
+        "The bark will be used to catch an ember from the friction between the spindle and fireboard."\n\n
+
+        <b>Start spinning\n</b>
+        "Place the spindle into the depression on your fire board. Your spindle should be about 2 feet "
+        "long for this to work properly. Maintain pressure on the board and start rolling the spindle "
+        "between your hands, running them quickly down the spindle. Keep doing this until an ember "
+        "is formed on the fireboard."\n\n
+
+        <b>Start a fire!\n</b>
+        "Once you see a glowing ember, tap the fire board to drop you ember onto the piece of bark. "
+        "Transfer the bark to your nest of tinder. Gently blow on it to start your flame."
+    </string>
+    <string name="txtMedicine">
+        <font size="24"><b>First Aid and Health\n\n</b></font>
+        <b>Shock\n\n</b>
+        "Use the following method to prevent and control shock:"\n\n
+        "1. When treating injuries:"\n
+        "I. restore breathing"\n
+        "II. stop bleeding"\n
+        "III. treat breaks and fractures"\n
+        "2. If there are no head or chest injuries place the patient on his/her back with the "
+        "head and chest lower than the legs. This will help the blood circulate to the brain, "
+        "heart, lungs and other major organs."\n
+        "3. If severe head and chest injuries are present elevate the upper body. If chest injuries "
+        "are present, elevate the injured side to assist in the functioning of the uninjured lung."\n
+        "4. If the injured person becomes unconscious, place him/her in a face down position to "
+        "prevent choking on blood, vomit or the tongue."\n
+        "5. Keep your patient warm and under shelter."\n\n
+        <b>Bleeding\n\n</b>
+        "To control bleeding, elevate the wounded area above the heart and apply pressure using "
+        "either gauze, clean cloth, dried seaweed or sphagnum moss. Use pressure at the pulse point "
+        "between the injured area and the heart if bleeding fails to stop. If bleeding still persists, "
+        "use a tourniquet between the injury and the heart. This method should only be used in extreme "
+        "situations. After bleeding has been controlled, wash the wounded area with disinfectant and "
+        "apply a dressing and bandages."\n\n
+        <b>Fractures\n\n</b>
+        "A fracture is classified as either a simple (closed) or compound (open). Signs that a "
+        "fracture is present include:"\n
+        "1. Pain at the affected area."\n
+        "2. The area may or may not be deformed."\n
+        "3. The victim is unable to place weight on the area without experiencing pain."\n
+        "4. A grating sensation or sound may be present during any motion of the injured area."\n\n
+
+        "Treatment is as follows:"\n
+        "1. If in doubt, treat the injury as a fracture."\n
+        "2. Splint the joints above and below the fracture."\n
+        "3. If the fracture may penetrate the skin, it could be necessary to apply traction to "
+        "straighten the deformity."\n
+        "4. Be sure to pad your splints."\n
+        "5. Check the splint ties frequently to be sure they do not hinder circulation."\n
+        "6. Cover all open wound with a clean dressing before splinting."
+    </string>
+</resources>
